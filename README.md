@@ -1,6 +1,9 @@
 ## Hiiiii :3
 My name is Raj-jyot Singh Deol or u/Switch_modder or Switch-modder. I'm really into robots such as Anki's Vector robot. I'm currently working on a big project known as Viccyware as well as some other smaller projects. 
 If you ever need to reach me my reddit account is u/Switch_modder.
+
+[![Raj-jyot's GitHub stats](https://github-readme-stats.vercel.app/api?username=Switch-modder&show=prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Switch-modder/Switch-modder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
